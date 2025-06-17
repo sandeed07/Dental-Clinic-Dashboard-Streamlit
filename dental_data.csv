@@ -1,0 +1,251 @@
+Appointment ID,Date,Patient Name,Patient Age,Gender,Doctor Name,Procedure Type,Appointment Status,Duration (minutes),Billing Amount ($),Payment Status
+1001,2025-03-30,Faisal Shah,38,Male,Dr. Zara,Extraction,Completed,42,214.9,Paid
+1002,2025-04-22,Kamran Ali,55,Male,Dr. Ayesha,Root Canal,Completed,65,609.61,Paid
+1003,2025-02-23,Junaid Anwar,25,Male,Dr. Bilal,Check-up,Completed,15,39.11,Paid
+1004,2025-02-21,Junaid Anwar,12,Female,Dr. Zara,Cleaning,Completed,30,88.02,Paid
+1005,2025-03-06,Imran Malik,46,Male,Dr. Bilal,Filling,Completed,54,186.72,Paid
+1006,2025-03-16,Usman Butt,36,Male,Dr. Ayesha,Cleaning,Completed,39,83.96,Paid
+1007,2025-04-16,Ayesha Zafar,51,Male,Dr. Ayesha,Check-up,Completed,29,54.02,Paid
+1008,2025-06-01,Ali Khan,65,Male,Dr. Zara,Extraction,Completed,59,226.76,Paid
+1009,2025-01-24,Ayesha Zafar,73,Male,Dr. Bilal,Filling,Cancelled,54,183.41,Paid
+1010,2025-06-03,Fatima Ahmed,24,Male,Dr. Bilal,Extraction,Completed,56,257.49,Paid
+1011,2025-05-02,Fatima Ahmed,18,Male,Dr. Ayesha,Check-up,Completed,27,33.46,Paid
+1012,2025-06-01,Bilal Hussain,15,Male,Dr. Bilal,Filling,Completed,51,125.36,Paid
+1013,2025-04-09,Sana Tariq,69,Female,Dr. Bilal,Check-up,Completed,29,56.65,Paid
+1014,2025-03-17,Ayesha Zafar,62,Female,Dr. Zara,Check-up,Completed,23,30.82,Paid
+1015,2025-04-29,Junaid Anwar,12,Female,Dr. Zara,Whitening,Completed,73,375.63,Paid
+1016,2025-05-25,Bilal Hussain,72,Female,Dr. Zara,Cleaning,Completed,33,68.65,Paid
+1017,2024-12-20,Mehwish Iqbal,9,Female,Dr. Zara,Root Canal,Completed,78,783.51,Paid
+1018,2025-05-02,Mehwish Iqbal,39,Male,Dr. Zara,Filling,Completed,52,121.03,Paid
+1019,2025-03-01,Asad Mehmood,13,Female,Dr. Bilal,Braces Consultation,Completed,48,88.08,Paid
+1020,2025-03-28,Usman Butt,77,Female,Dr. Zara,Extraction,Completed,44,246.87,Paid
+1021,2025-02-23,Nazia Saleem,37,Female,Dr. Zara,Extraction,Cancelled,38,312.39,Pending
+1022,2025-03-02,Nida Fatima,29,Female,Dr. Bilal,Filling,Completed,57,152.18,Paid
+1023,2025-01-13,Faisal Shah,48,Male,Dr. Ayesha,Cleaning,Completed,44,95.5,Paid
+1024,2025-05-30,Junaid Anwar,26,Male,Dr. Zara,Filling,Completed,49,111.02,Paid
+1025,2025-02-01,Usman Butt,11,Female,Dr. Zara,Braces Consultation,Completed,45,99.19,Pending
+1026,2025-03-25,Ali Khan,18,Male,Dr. Ayesha,Filling,Completed,74,235.53,Paid
+1027,2025-05-16,Faisal Shah,48,Male,Dr. Ayesha,Braces Consultation,Completed,59,86.96,Pending
+1028,2025-02-06,Ali Khan,39,Female,Dr. Ayesha,Check-up,Completed,24,50.26,Paid
+1029,2025-06-01,Nazia Saleem,9,Male,Dr. Ayesha,Cleaning,Completed,32,94.1,Pending
+1030,2025-01-12,Fatima Ahmed,10,Male,Dr. Ayesha,Check-up,Completed,28,69.37,Paid
+1031,2025-02-11,Nida Fatima,42,Male,Dr. Zara,Extraction,Completed,50,261.93,Paid
+1032,2025-05-15,Sana Tariq,40,Female,Dr. Bilal,Braces Consultation,Completed,52,91.65,Paid
+1033,2025-04-30,Junaid Anwar,70,Male,Dr. Ayesha,Check-up,Completed,23,68.62,Paid
+1034,2025-01-28,Imran Malik,37,Male,Dr. Ayesha,Filling,Completed,55,202.72,Paid
+1035,2025-03-22,Maryam Raza,69,Male,Dr. Bilal,Check-up,Completed,24,34.52,Paid
+1036,2025-03-31,Ali Khan,78,Male,Dr. Ayesha,Check-up,Completed,25,42.71,Paid
+1037,2025-06-09,Junaid Anwar,57,Male,Dr. Zara,Braces Consultation,Completed,45,96.27,Paid
+1038,2025-04-14,Sana Tariq,52,Female,Dr. Zara,Whitening,Completed,62,280.68,Paid
+1039,2025-05-04,Fatima Ahmed,8,Female,Dr. Ayesha,Check-up,No-show,21,52.61,Pending
+1040,2025-06-17,Omer Farooq,77,Male,Dr. Bilal,Root Canal,Completed,82,481.02,Paid
+1041,2025-02-13,Nida Fatima,31,Male,Dr. Ayesha,Braces Consultation,Completed,48,83.32,Paid
+1042,2025-02-09,Bilal Hussain,12,Male,Dr. Bilal,Root Canal,Completed,79,472.52,Paid
+1043,2025-02-11,Fatima Ahmed,9,Male,Dr. Zara,Root Canal,Completed,117,304.37,Paid
+1044,2025-05-29,Nazia Saleem,50,Female,Dr. Ayesha,Extraction,Completed,32,159.22,Paid
+1045,2025-03-20,Nida Fatima,52,Female,Dr. Ayesha,Extraction,Completed,33,188.76,Paid
+1046,2025-04-02,Ali Khan,15,Male,Dr. Bilal,Filling,Completed,65,243.87,Paid
+1047,2025-04-18,Junaid Anwar,13,Female,Dr. Bilal,Root Canal,Completed,95,430.36,Pending
+1048,2025-04-23,Omer Farooq,22,Female,Dr. Ayesha,Filling,Completed,56,154.41,Paid
+1049,2025-05-28,Fatima Ahmed,31,Female,Dr. Bilal,Filling,Completed,47,187.82,Paid
+1050,2025-05-19,Usman Butt,67,Female,Dr. Bilal,Check-up,Completed,22,47.81,Paid
+1051,2025-05-22,Sana Tariq,57,Female,Dr. Zara,Check-up,Completed,17,35.46,Paid
+1052,2025-03-12,Ali Khan,71,Male,Dr. Zara,Cleaning,Completed,32,80.88,Paid
+1053,2025-04-15,Ayesha Zafar,57,Female,Dr. Ayesha,Whitening,Completed,81,402.47,Paid
+1054,2025-06-12,Ali Khan,44,Female,Dr. Bilal,Cleaning,Completed,34,75.63,Paid
+1055,2025-05-27,Nazia Saleem,44,Female,Dr. Bilal,Filling,Completed,71,235.08,Paid
+1056,2024-12-22,Sara Khan,49,Female,Dr. Zara,Cleaning,Completed,41,92.71,Paid
+1057,2025-04-01,Fatima Ahmed,22,Male,Dr. Zara,Extraction,Completed,45,223.43,Paid
+1058,2025-05-24,Ali Khan,34,Male,Dr. Zara,Braces Consultation,Cancelled,60,143.83,Paid
+1059,2025-05-30,Omer Farooq,25,Male,Dr. Bilal,Extraction,Completed,56,162.84,Paid
+1060,2025-04-02,Ali Khan,74,Male,Dr. Bilal,Braces Consultation,Completed,52,125.45,Paid
+1061,2025-03-12,Junaid Anwar,27,Male,Dr. Bilal,Whitening,Completed,64,472.41,Paid
+1062,2025-02-12,Mehwish Iqbal,28,Female,Dr. Zara,Check-up,Completed,15,34.51,Paid
+1063,2025-06-17,Mehwish Iqbal,67,Female,Dr. Zara,Root Canal,Completed,98,442.91,Pending
+1064,2025-03-28,Faisal Shah,67,Female,Dr. Ayesha,Filling,Completed,75,163.15,Paid
+1065,2025-03-01,Maryam Raza,63,Female,Dr. Ayesha,Root Canal,Completed,73,428.38,Paid
+1066,2025-01-23,Nazia Saleem,79,Male,Dr. Bilal,Extraction,Completed,42,195.16,Paid
+1067,2025-04-03,Ali Khan,31,Male,Dr. Bilal,Whitening,Completed,72,435.5,Paid
+1068,2025-04-16,Usman Butt,31,Male,Dr. Bilal,Cleaning,Completed,33,57.48,Paid
+1069,2025-02-15,Ayesha Zafar,36,Female,Dr. Bilal,Root Canal,Completed,100,452.45,Paid
+1070,2025-04-05,Fatima Ahmed,59,Female,Dr. Bilal,Whitening,Completed,64,362.38,Paid
+1071,2024-12-24,Adnan Siddiqui,67,Female,Dr. Bilal,Check-up,Completed,28,43.12,Paid
+1072,2025-04-19,Faisal Shah,7,Male,Dr. Bilal,Root Canal,Completed,62,518.9,Paid
+1073,2025-04-09,Kamran Ali,31,Male,Dr. Bilal,Root Canal,Completed,80,554.13,Paid
+1074,2025-05-26,Sara Khan,36,Male,Dr. Ayesha,Cleaning,Completed,45,51.04,Paid
+1075,2025-05-29,Usman Butt,32,Female,Dr. Bilal,Cleaning,Completed,40,66.67,Paid
+1076,2025-01-18,Ali Khan,38,Male,Dr. Zara,Extraction,Completed,52,235.63,Paid
+1077,2025-04-19,Nida Fatima,34,Female,Dr. Zara,Root Canal,Completed,62,513.61,Pending
+1078,2025-02-11,Sana Tariq,33,Female,Dr. Bilal,Root Canal,Completed,101,386.59,Paid
+1079,2025-04-05,Junaid Anwar,18,Male,Dr. Zara,Braces Consultation,Completed,45,145.21,Paid
+1080,2025-02-14,Junaid Anwar,71,Male,Dr. Ayesha,Filling,Cancelled,62,229.99,Pending
+1081,2025-05-26,Nazia Saleem,65,Female,Dr. Ayesha,Whitening,Completed,89,392.76,Paid
+1082,2025-05-01,Maryam Raza,80,Female,Dr. Bilal,Root Canal,Completed,91,750.9,Paid
+1083,2024-12-27,Maryam Raza,28,Male,Dr. Ayesha,Whitening,Cancelled,86,415.91,Pending
+1084,2025-05-04,Hina Javed,38,Male,Dr. Zara,Whitening,Completed,68,336.1,Paid
+1085,2025-02-15,Asad Mehmood,64,Female,Dr. Zara,Check-up,Completed,27,41.72,Paid
+1086,2025-03-11,Bilal Hussain,13,Female,Dr. Zara,Braces Consultation,Completed,58,83.77,Paid
+1087,2024-12-22,Sara Khan,26,Female,Dr. Ayesha,Braces Consultation,Completed,45,114.6,Paid
+1088,2025-02-09,Ayesha Zafar,28,Female,Dr. Bilal,Braces Consultation,Completed,54,111.08,Paid
+1089,2025-06-13,Adnan Siddiqui,53,Male,Dr. Zara,Braces Consultation,Completed,54,99.07,Pending
+1090,2025-04-05,Sana Tariq,63,Male,Dr. Bilal,Cleaning,Completed,34,98.97,Paid
+1091,2025-05-25,Usman Butt,52,Male,Dr. Zara,Filling,Completed,59,116.54,Paid
+1092,2025-02-07,Omer Farooq,31,Female,Dr. Ayesha,Braces Consultation,Completed,51,108.13,Paid
+1093,2025-05-26,Omer Farooq,7,Male,Dr. Bilal,Cleaning,Completed,41,66.32,Paid
+1094,2024-12-28,Bilal Hussain,75,Female,Dr. Bilal,Whitening,Completed,85,293.1,Paid
+1095,2025-03-27,Junaid Anwar,7,Male,Dr. Zara,Filling,Completed,71,204.37,Paid
+1096,2025-03-19,Usman Butt,49,Female,Dr. Bilal,Braces Consultation,Completed,57,84.38,Paid
+1097,2025-05-09,Nida Fatima,20,Female,Dr. Ayesha,Filling,Completed,57,175.33,Paid
+1098,2025-01-05,Bilal Hussain,31,Male,Dr. Ayesha,Cleaning,Cancelled,33,64.21,Paid
+1099,2025-06-01,Nida Fatima,52,Female,Dr. Ayesha,Filling,Completed,60,226.3,Pending
+1100,2024-12-25,Kamran Ali,24,Female,Dr. Zara,Check-up,Completed,27,45.01,Paid
+1101,2025-05-02,Imran Malik,29,Male,Dr. Bilal,Braces Consultation,No-show,60,122.98,Paid
+1102,2025-01-18,Maryam Raza,58,Female,Dr. Bilal,Filling,Completed,63,199.23,Paid
+1103,2025-02-22,Adnan Siddiqui,32,Male,Dr. Bilal,Check-up,Completed,22,42.55,Paid
+1104,2024-12-21,Adnan Siddiqui,20,Male,Dr. Ayesha,Extraction,Completed,60,215.09,Paid
+1105,2025-03-23,Imran Malik,39,Female,Dr. Ayesha,Check-up,Completed,16,51.68,Paid
+1106,2025-01-06,Asad Mehmood,79,Male,Dr. Bilal,Whitening,Completed,85,270.94,Pending
+1107,2025-02-10,Ayesha Zafar,27,Male,Dr. Ayesha,Root Canal,Completed,78,324.81,Paid
+1108,2025-03-05,Bilal Hussain,29,Male,Dr. Zara,Filling,Completed,66,248.12,Paid
+1109,2025-05-13,Kamran Ali,77,Male,Dr. Ayesha,Extraction,Completed,37,182.07,Paid
+1110,2025-03-13,Imran Malik,59,Female,Dr. Bilal,Extraction,Completed,40,187.5,Paid
+1111,2025-06-09,Bilal Hussain,19,Male,Dr. Ayesha,Whitening,No-show,62,278.76,Paid
+1112,2025-06-05,Imran Malik,57,Male,Dr. Zara,Braces Consultation,Completed,52,108.64,Paid
+1113,2025-03-04,Bilal Hussain,24,Female,Dr. Bilal,Extraction,No-show,54,335.39,Paid
+1114,2025-02-25,Kamran Ali,71,Male,Dr. Ayesha,Check-up,Completed,25,37.98,Paid
+1115,2025-02-16,Junaid Anwar,69,Female,Dr. Zara,Cleaning,Completed,33,95.63,Paid
+1116,2025-02-25,Kamran Ali,47,Male,Dr. Bilal,Whitening,No-show,80,422.46,Paid
+1117,2025-02-26,Faisal Shah,73,Male,Dr. Ayesha,Extraction,Cancelled,51,330.6,Pending
+1118,2025-06-16,Sana Tariq,10,Male,Dr. Zara,Cleaning,Completed,34,86.0,Paid
+1119,2025-04-18,Zara Nadeem,60,Female,Dr. Zara,Filling,Cancelled,62,226.97,Pending
+1120,2025-03-24,Bilal Hussain,5,Male,Dr. Bilal,Check-up,Completed,17,65.89,Paid
+1121,2025-05-14,Ayesha Zafar,20,Male,Dr. Zara,Braces Consultation,Completed,52,141.52,Paid
+1122,2025-01-31,Hina Javed,67,Female,Dr. Bilal,Cleaning,Completed,35,54.88,Paid
+1123,2025-04-09,Nida Fatima,10,Female,Dr. Bilal,Braces Consultation,Completed,53,81.48,Paid
+1124,2025-06-08,Sana Tariq,37,Female,Dr. Ayesha,Filling,Completed,67,231.48,Paid
+1125,2025-02-10,Kamran Ali,20,Female,Dr. Bilal,Extraction,Completed,34,239.02,Paid
+1126,2025-03-14,Zara Nadeem,29,Female,Dr. Bilal,Cleaning,Cancelled,38,91.67,Pending
+1127,2025-05-01,Faisal Shah,53,Male,Dr. Ayesha,Whitening,Completed,86,463.82,Paid
+1128,2025-04-01,Asad Mehmood,61,Male,Dr. Ayesha,Cleaning,Completed,32,97.72,Paid
+1129,2025-05-22,Zara Nadeem,30,Male,Dr. Bilal,Check-up,Completed,25,47.84,Paid
+1130,2025-05-15,Ali Khan,39,Female,Dr. Zara,Braces Consultation,Completed,47,146.92,Paid
+1131,2025-05-13,Mehwish Iqbal,40,Male,Dr. Ayesha,Check-up,Completed,21,30.66,Paid
+1132,2025-04-23,Omer Farooq,35,Female,Dr. Zara,Check-up,Completed,25,47.81,Paid
+1133,2025-01-08,Maryam Raza,14,Female,Dr. Bilal,Whitening,Completed,82,475.36,Paid
+1134,2025-04-16,Sara Khan,15,Female,Dr. Bilal,Filling,Cancelled,49,111.96,Pending
+1135,2025-02-11,Nida Fatima,40,Male,Dr. Bilal,Cleaning,Completed,40,86.48,Paid
+1136,2025-06-10,Bilal Hussain,28,Male,Dr. Ayesha,Extraction,Completed,46,152.91,Paid
+1137,2025-03-26,Mehwish Iqbal,50,Female,Dr. Ayesha,Whitening,Completed,62,457.64,Paid
+1138,2025-04-02,Nazia Saleem,37,Male,Dr. Zara,Check-up,Completed,21,39.8,Paid
+1139,2025-03-24,Maryam Raza,7,Male,Dr. Ayesha,Filling,Completed,58,242.98,Paid
+1140,2025-04-05,Faisal Shah,20,Male,Dr. Bilal,Cleaning,Completed,39,80.02,Paid
+1141,2025-06-09,Maryam Raza,27,Female,Dr. Zara,Filling,Completed,50,236.05,Paid
+1142,2025-05-01,Junaid Anwar,40,Female,Dr. Ayesha,Extraction,Completed,38,189.61,Paid
+1143,2024-12-27,Asad Mehmood,37,Male,Dr. Ayesha,Filling,Completed,59,147.71,Paid
+1144,2025-03-05,Adnan Siddiqui,38,Male,Dr. Bilal,Root Canal,Completed,94,362.46,Paid
+1145,2024-12-22,Ali Khan,64,Female,Dr. Bilal,Braces Consultation,Completed,58,83.04,Paid
+1146,2025-06-07,Faisal Shah,47,Male,Dr. Zara,Whitening,Completed,69,338.06,Paid
+1147,2025-03-15,Ayesha Zafar,47,Male,Dr. Bilal,Braces Consultation,Completed,52,131.8,Paid
+1148,2025-05-01,Nazia Saleem,66,Male,Dr. Zara,Whitening,Completed,75,458.24,Pending
+1149,2024-12-20,Imran Malik,55,Male,Dr. Bilal,Whitening,Completed,75,412.77,Paid
+1150,2025-01-17,Adnan Siddiqui,23,Female,Dr. Zara,Whitening,Completed,87,276.23,Paid
+1151,2024-12-19,Junaid Anwar,23,Female,Dr. Ayesha,Braces Consultation,Completed,50,144.75,Paid
+1152,2025-03-07,Ayesha Zafar,10,Male,Dr. Bilal,Braces Consultation,Completed,51,104.82,Paid
+1153,2025-04-28,Usman Butt,69,Female,Dr. Bilal,Root Canal,Completed,89,702.47,Paid
+1154,2025-01-12,Omer Farooq,36,Male,Dr. Bilal,Whitening,Completed,83,364.75,Paid
+1155,2025-05-10,Nida Fatima,79,Female,Dr. Zara,Check-up,Completed,15,36.62,Paid
+1156,2025-02-24,Fatima Ahmed,67,Male,Dr. Bilal,Braces Consultation,Completed,45,97.32,Paid
+1157,2025-03-30,Usman Butt,24,Female,Dr. Zara,Whitening,Completed,90,282.49,Paid
+1158,2025-01-19,Maryam Raza,29,Female,Dr. Ayesha,Filling,Completed,58,143.07,Paid
+1159,2025-06-05,Usman Butt,48,Female,Dr. Bilal,Cleaning,Completed,41,68.89,Paid
+1160,2025-06-15,Omer Farooq,7,Male,Dr. Bilal,Cleaning,Completed,41,90.84,Paid
+1161,2025-01-18,Nazia Saleem,21,Female,Dr. Ayesha,Filling,Completed,69,131.03,Paid
+1162,2025-06-11,Ali Khan,59,Female,Dr. Ayesha,Extraction,Completed,54,185.78,Paid
+1163,2025-01-06,Sara Khan,20,Female,Dr. Bilal,Whitening,Completed,68,338.15,Paid
+1164,2025-01-06,Nida Fatima,14,Female,Dr. Ayesha,Check-up,Completed,17,57.96,Paid
+1165,2025-03-07,Asad Mehmood,65,Female,Dr. Ayesha,Check-up,Cancelled,28,64.7,Paid
+1166,2025-04-02,Nida Fatima,37,Female,Dr. Zara,Filling,Cancelled,55,135.91,Pending
+1167,2025-02-23,Nazia Saleem,32,Male,Dr. Bilal,Extraction,Completed,52,240.21,Paid
+1168,2025-04-13,Junaid Anwar,53,Male,Dr. Ayesha,Root Canal,Completed,98,360.2,Paid
+1169,2024-12-28,Asad Mehmood,23,Female,Dr. Ayesha,Whitening,No-show,87,296.72,Pending
+1170,2025-01-19,Ali Khan,19,Female,Dr. Bilal,Root Canal,Completed,65,504.9,Paid
+1171,2025-05-09,Ali Khan,46,Female,Dr. Zara,Whitening,Completed,79,344.17,Paid
+1172,2025-01-13,Adnan Siddiqui,36,Male,Dr. Ayesha,Extraction,Cancelled,30,261.72,Pending
+1173,2025-01-21,Bilal Hussain,14,Female,Dr. Zara,Braces Consultation,Completed,55,142.74,Paid
+1174,2025-03-07,Omer Farooq,29,Male,Dr. Ayesha,Check-up,Completed,27,43.56,Paid
+1175,2025-06-04,Hina Javed,17,Female,Dr. Ayesha,Extraction,Completed,59,276.16,Paid
+1176,2025-02-01,Bilal Hussain,30,Male,Dr. Bilal,Cleaning,Completed,44,84.67,Paid
+1177,2025-02-07,Omer Farooq,75,Female,Dr. Bilal,Filling,Completed,54,183.63,Paid
+1178,2025-05-20,Maryam Raza,76,Male,Dr. Zara,Extraction,Completed,51,288.91,Paid
+1179,2025-05-31,Nida Fatima,24,Female,Dr. Bilal,Root Canal,Cancelled,84,777.91,Pending
+1180,2025-01-09,Asad Mehmood,47,Male,Dr. Zara,Cleaning,Completed,44,69.47,Paid
+1181,2025-02-11,Mehwish Iqbal,72,Female,Dr. Ayesha,Root Canal,Completed,72,561.37,Paid
+1182,2025-05-29,Adnan Siddiqui,54,Male,Dr. Bilal,Root Canal,Completed,117,630.65,Paid
+1183,2025-06-01,Kamran Ali,9,Male,Dr. Bilal,Braces Consultation,Completed,58,87.38,Paid
+1184,2025-05-15,Ayesha Zafar,76,Male,Dr. Ayesha,Filling,Completed,73,130.3,Paid
+1185,2025-03-11,Nida Fatima,73,Male,Dr. Bilal,Cleaning,Completed,40,87.26,Paid
+1186,2025-05-21,Adnan Siddiqui,42,Female,Dr. Ayesha,Filling,Completed,56,167.83,Paid
+1187,2025-05-24,Imran Malik,69,Male,Dr. Zara,Extraction,Completed,41,314.46,Paid
+1188,2025-04-01,Sana Tariq,44,Female,Dr. Ayesha,Root Canal,Completed,104,758.95,Paid
+1189,2025-04-01,Sana Tariq,73,Female,Dr. Ayesha,Root Canal,Completed,74,479.43,Paid
+1190,2025-03-27,Sana Tariq,25,Male,Dr. Zara,Extraction,Cancelled,38,296.58,Pending
+1191,2024-12-26,Hina Javed,6,Male,Dr. Zara,Cleaning,Completed,38,69.25,Paid
+1192,2025-05-21,Nazia Saleem,66,Male,Dr. Ayesha,Root Canal,Completed,79,609.21,Paid
+1193,2025-04-15,Mehwish Iqbal,63,Female,Dr. Zara,Braces Consultation,Completed,59,126.56,Paid
+1194,2025-01-14,Zara Nadeem,33,Male,Dr. Zara,Check-up,Cancelled,19,64.23,Paid
+1195,2025-01-04,Ali Khan,43,Male,Dr. Ayesha,Whitening,Completed,60,365.87,Paid
+1196,2025-01-01,Asad Mehmood,80,Male,Dr. Bilal,Root Canal,Completed,112,760.6,Paid
+1197,2025-03-08,Sara Khan,63,Female,Dr. Bilal,Braces Consultation,Completed,45,125.58,Paid
+1198,2025-01-30,Hina Javed,22,Male,Dr. Bilal,Filling,Completed,55,109.81,Paid
+1199,2025-02-01,Ali Khan,14,Male,Dr. Ayesha,Extraction,Completed,54,224.08,Pending
+1200,2025-03-29,Bilal Hussain,30,Female,Dr. Bilal,Filling,Completed,49,132.78,Paid
+1201,2025-06-16,Adnan Siddiqui,61,Female,Dr. Bilal,Filling,Completed,66,219.13,Paid
+1202,2025-04-21,Hina Javed,8,Male,Dr. Zara,Braces Consultation,Completed,47,133.92,Paid
+1203,2025-05-31,Ali Khan,40,Male,Dr. Bilal,Check-up,Completed,23,69.42,Paid
+1204,2025-02-13,Bilal Hussain,21,Female,Dr. Zara,Extraction,Completed,35,194.68,Paid
+1205,2025-03-24,Imran Malik,14,Female,Dr. Zara,Braces Consultation,Completed,49,139.55,Paid
+1206,2025-05-22,Asad Mehmood,10,Female,Dr. Bilal,Braces Consultation,Completed,54,140.19,Paid
+1207,2025-03-19,Ali Khan,12,Female,Dr. Bilal,Whitening,Completed,64,388.5,Paid
+1208,2025-04-20,Faisal Shah,8,Female,Dr. Bilal,Braces Consultation,Completed,45,117.86,Paid
+1209,2025-06-02,Sana Tariq,56,Female,Dr. Zara,Cleaning,No-show,38,83.19,Pending
+1210,2025-06-09,Nazia Saleem,70,Male,Dr. Zara,Whitening,Completed,89,302.92,Paid
+1211,2025-01-23,Imran Malik,13,Male,Dr. Bilal,Braces Consultation,Completed,57,103.89,Paid
+1212,2025-05-06,Zara Nadeem,14,Male,Dr. Zara,Extraction,No-show,31,290.04,Pending
+1213,2025-04-23,Imran Malik,7,Female,Dr. Zara,Filling,Completed,53,115.6,Paid
+1214,2025-06-15,Hina Javed,80,Female,Dr. Zara,Root Canal,Completed,62,426.33,Paid
+1215,2025-02-21,Nida Fatima,78,Female,Dr. Bilal,Braces Consultation,Completed,56,144.7,Paid
+1216,2025-03-18,Ali Khan,35,Male,Dr. Bilal,Filling,Completed,60,207.03,Pending
+1217,2025-04-24,Nida Fatima,73,Female,Dr. Zara,Filling,Completed,53,231.17,Paid
+1218,2024-12-31,Ayesha Zafar,59,Male,Dr. Zara,Extraction,Completed,35,218.71,Paid
+1219,2025-01-27,Bilal Hussain,41,Female,Dr. Bilal,Whitening,Completed,83,413.56,Pending
+1220,2024-12-29,Mehwish Iqbal,62,Male,Dr. Ayesha,Filling,Completed,47,183.48,Paid
+1221,2025-01-22,Mehwish Iqbal,29,Male,Dr. Bilal,Root Canal,Completed,78,508.42,Paid
+1222,2025-03-10,Nazia Saleem,80,Female,Dr. Zara,Filling,Completed,63,115.48,Paid
+1223,2025-04-29,Usman Butt,24,Female,Dr. Bilal,Root Canal,Completed,91,555.83,Paid
+1224,2025-05-29,Zara Nadeem,32,Female,Dr. Ayesha,Whitening,Completed,76,339.81,Paid
+1225,2025-03-01,Nida Fatima,77,Female,Dr. Bilal,Filling,Completed,54,245.23,Paid
+1226,2025-03-06,Faisal Shah,31,Male,Dr. Zara,Root Canal,Completed,102,517.78,Paid
+1227,2025-01-19,Adnan Siddiqui,54,Female,Dr. Ayesha,Whitening,Cancelled,89,490.98,Paid
+1228,2025-06-08,Hina Javed,51,Male,Dr. Ayesha,Filling,Completed,59,131.65,Paid
+1229,2025-04-29,Omer Farooq,47,Female,Dr. Bilal,Cleaning,Completed,32,96.55,Paid
+1230,2025-03-13,Fatima Ahmed,16,Male,Dr. Zara,Root Canal,Completed,70,351.63,Paid
+1231,2025-06-04,Nazia Saleem,75,Female,Dr. Bilal,Braces Consultation,Completed,50,140.99,Paid
+1232,2025-01-27,Bilal Hussain,75,Male,Dr. Ayesha,Extraction,Completed,57,304.59,Paid
+1233,2025-05-23,Imran Malik,15,Female,Dr. Zara,Braces Consultation,Completed,49,144.21,Pending
+1234,2025-05-15,Omer Farooq,37,Male,Dr. Ayesha,Filling,Completed,57,235.98,Paid
+1235,2025-04-09,Zara Nadeem,80,Male,Dr. Ayesha,Whitening,Completed,71,455.5,Paid
+1236,2025-05-19,Mehwish Iqbal,7,Male,Dr. Ayesha,Extraction,Completed,33,269.07,Paid
+1237,2025-05-31,Imran Malik,5,Male,Dr. Bilal,Extraction,No-show,55,255.65,Paid
+1238,2025-06-06,Sana Tariq,75,Male,Dr. Bilal,Cleaning,Completed,32,69.69,Paid
+1239,2025-01-23,Adnan Siddiqui,12,Female,Dr. Bilal,Root Canal,Cancelled,119,307.53,Pending
+1240,2025-05-23,Maryam Raza,8,Male,Dr. Bilal,Filling,Completed,75,191.53,Paid
+1241,2025-05-30,Adnan Siddiqui,29,Female,Dr. Bilal,Whitening,Completed,66,452.14,Paid
+1242,2025-05-01,Ayesha Zafar,77,Male,Dr. Zara,Check-up,Completed,19,40.37,Paid
+1243,2025-05-30,Kamran Ali,59,Male,Dr. Ayesha,Check-up,No-show,20,56.24,Pending
+1244,2025-05-25,Sara Khan,59,Female,Dr. Zara,Check-up,Completed,16,41.7,Paid
+1245,2025-06-11,Bilal Hussain,44,Female,Dr. Ayesha,Cleaning,Completed,39,95.27,Paid
+1246,2025-01-06,Zara Nadeem,21,Male,Dr. Bilal,Check-up,Completed,18,46.3,Paid
+1247,2025-02-06,Hina Javed,21,Female,Dr. Zara,Whitening,Completed,71,495.17,Paid
+1248,2025-06-01,Asad Mehmood,72,Male,Dr. Zara,Filling,Completed,67,158.71,Paid
+1249,2025-02-01,Fatima Ahmed,75,Male,Dr. Ayesha,Braces Consultation,Completed,57,96.76,Paid
+1250,2025-02-01,Sana Tariq,20,Male,Dr. Zara,Whitening,Cancelled,90,382.07,Pending
